@@ -1,0 +1,23 @@
+{
+  "name": "footballers",
+  "version": "0.0.1",
+  "description": "web application para poder medir y establecer métricas de los jugadores de FDV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dantovbein/fdv-footballers.git"
+  },
+  "author": "Dan Tovbein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dantovbein/fdv-footballers/issues"
+  },
+  "homepage": "https://github.com/dantovbein/fdv-footballers#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  }
+}
