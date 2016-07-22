@@ -1,5 +1,5 @@
-/sass/*
 /node_modules/*
+/www/css/*
 
 *.gitkeep
 *.idea
